@@ -1,0 +1,5 @@
+alias battery='$HOME/bin/battery.sh'
+alias setup='$HOME/bin/teemux.sh'
+alias light='$HOME/bin/lightswitch.sh'
+alias colortest='$HOME/bin/colortest.sh'
+alias google='$HOME/bin/google.sh'
