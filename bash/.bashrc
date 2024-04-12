@@ -27,3 +27,7 @@ if [ -f $HOME/.bash_aliases ]; then
 	source $HOME/.bash_aliases
 fi
 unset rc
+
+export GTK_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+export QT_IM_MODULE=ibus
