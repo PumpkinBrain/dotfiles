@@ -14,7 +14,7 @@ vim.cmd([[
 	set nocompatible
 	set incsearch
 	syntax on
-	colorscheme wildcharm
+	set termguicolors
 ]])
 
 -- trasparent background

@@ -6,5 +6,6 @@ vim.cmd([[
 		Plug 'romgrk/barbar.nvim'
 		Plug 'nvim-tree/nvim-tree.lua'
 		Plug 'neovim/nvim-lspconfig'
+		Plug 'AlphaTechnolog/pywal.nvim', { 'as': 'pywal' }
 	call plug#end()
 ]])

@@ -31,3 +31,7 @@ unset rc
 export GTK_IM_MODULE=ibus
 export XMODIFIERS=@im=ibus
 export QT_IM_MODULE=ibus
+
+PS1="\e[3;33m[\u@\h \W]\$\e[0m \e[0;35m"
+source ~/.cache/wal/colors-tty.sh
+wal -R >/dev/null 2>$1
