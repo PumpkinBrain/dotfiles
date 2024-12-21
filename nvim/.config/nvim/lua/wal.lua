@@ -1,1 +1,1 @@
-require('pywal').setup()
+#require('pywal').setup()
